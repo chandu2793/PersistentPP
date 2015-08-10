@@ -1,3 +1,5 @@
 #+TITLE: Programming Assignment
-** Implement the List Data Type in 2 languages of your choice
-** Keep track of how much time you spent on various aspects like looking up syntax, fixing errors etc
+* Lists
+- Implement the List Data Type in 2 languages of your choice
+- Keep track of how much time you spent on various aspects like looking up syntax, fixing errors etc
+- Try out emacs
