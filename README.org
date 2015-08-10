@@ -1,1 +1,7 @@
-Persistent PP Shared Repo
+#+TITLE: Persistent PP Shared Repo
+#+AUTHOR:
+#+EMAIL:rustompmody@gmail.com
+* Lecture 07-08-15
+- [[https://github.com/rusimody/PersistentPP/wiki][The Wiki]] has the links of papers to read
+- The directory lect-07-08-15 has the buffer of the class session and the sample  C and gofer files
+ 
